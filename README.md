@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gamini Radhika Naga Varalakshmi</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+<img align = "right" alt = "Coding" width = 400 src = "https://static.vecteezy.com/system/resources/previews/012/744/791/non_2x/cute-girl-working-on-computer-cartoon-icon-illustration-people-and-technology-icon-concept-isolated-premium-flat-cartoon-style-vector.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varalakshmi-20&label=Profile%20views&color=0e75b6&style=flat" alt="varalakshmi-20" /> </p>
 
 - 🌱 I’m currently learning **Networking**
